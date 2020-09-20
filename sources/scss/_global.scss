@@ -1,0 +1,11 @@
+@import "variables";
+
+/* Global styles */
+html {font-size: 15px}
+@media screen and (min-width: 1440px){html{font-size: 104%}}
+
+body {
+    font-family: $main-font;
+    margin: 0;
+    padding: 0;
+}
